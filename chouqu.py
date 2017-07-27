@@ -2,6 +2,7 @@
 
 import os
 import codecs
+#git status
 ##本地修改
 ##抽取中文1,buxianshi
 def eachFile(filepath):
