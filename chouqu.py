@@ -1,8 +1,8 @@
-#  -*- coding:utf-8 -*-
+﻿#  -*- coding:utf-8 -*-
 
 import os
 import codecs
-
+##本地修改
 ##抽取中文1,buxianshi
 def eachFile(filepath):
     pathDir = os.listdir(filepath)
