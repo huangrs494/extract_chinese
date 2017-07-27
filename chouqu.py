@@ -3,7 +3,7 @@
 import os
 import codecs
 
-##抽取中文1
+##抽取中文1,buxianshi
 def eachFile(filepath):
     pathDir = os.listdir(filepath)
     each_file = list()
